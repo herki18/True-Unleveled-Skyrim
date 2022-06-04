@@ -262,8 +262,11 @@ namespace TrueUnleveledSkyrim.Patch
                     wasChanged = false;
                 }
 
-                wasChanged |= UnlevelList(listCopy);
-
+                if(Patcher.ModSettings.Value.Unleveling.Items.UnlevelItems)
+                {
+                    wasChanged |= UnlevelList(listCopy);
+                }
+                
                 ++processedRecords;
                 if (processedRecords % 100 == 0)
                     Console.WriteLine("Processed " + processedRecords + " leveled item lists.");
