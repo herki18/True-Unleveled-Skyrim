@@ -40,6 +40,7 @@ namespace TrueUnleveledSkyrim.Config
             RaceModifiersPath = Path.Combine(state.ExtraSettingsDataPath, RaceModifiersPath);
             ZoneTyesEDIDPath = Path.Combine(state.ExtraSettingsDataPath, ZoneTyesEDIDPath);
             ZoneTyesEDIDMLUPath = Path.Combine(state.ExtraSettingsDataPath, ZoneTyesEDIDMLUPath);
+            ZoneTyesEDIDMLUPathV2 = Path.Combine(state.ExtraSettingsDataPath, ZoneTyesEDIDMLUPathV2);
             ZoneTyesKeywordPath = Path.Combine(state.ExtraSettingsDataPath, ZoneTyesKeywordPath);
             ZoneTyesKeywordMLUPath = Path.Combine(state.ExtraSettingsDataPath, ZoneTyesKeywordMLUPath);
         }
