@@ -104,7 +104,7 @@ namespace TrueUnleveledSkyrim.Patch
             if(Patcher.ModSettings.Value.Unleveling.Zones.UseMorrowlootZoneBalance)
             {
                 ZonesByKeyword = JsonHelper.LoadConfig<ZoneList>(TUSConstants.ZoneTyesKeywordMLUPath);
-                ZonesByID = JsonHelper.LoadConfig<ZoneList>(TUSConstants.ZoneTyesEDIDMLUPath);
+                ZonesByID = JsonHelper.LoadConfig<ZoneList>(TUSConstants.ZoneTyesEDIDMLUPathV2);
             }
             else
             {

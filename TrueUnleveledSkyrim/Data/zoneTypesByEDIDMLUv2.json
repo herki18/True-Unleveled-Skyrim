@@ -1,0 +1,3127 @@
+{
+  "Zones": [
+    {
+      "Keys": [
+        "AbandonedPrisonZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 20,
+      "MaxLevel": 40,
+      "Range": 20
+    },
+    {
+      "Keys": [
+        "AlchemistsShackZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 16,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "AlftandZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "AngarvundeZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "AngisCampZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "AnisesCabinZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 16,
+      "MaxLevel": 32,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "AnsilvundZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ArcwindPointZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 54,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "AutumnshadeClearingZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 28,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "AvanchnzelZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "AzurasStarZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BannermistZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 36,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BilegulchMineZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BlackreachZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BleakcoastCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 20,
+      "MaxLevel": 45,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BleakFallsBarrowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 8,
+      "MaxLevel": 22,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BleakwindBasinZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BleakwindBluffZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 35,
+      "MaxLevel": 50,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BlindCliffCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BlizzardRestZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BloatedMansGrottoZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 38,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BloodletThroneZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BluePalaceWingZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BonechillPassageZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 28,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BoulderfallCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 34,
+      "MaxLevel": 60,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BrinehammerZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 38,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BrinewaterGrottoZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 52,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BrittleshinPassZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BrokenFangCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BrokenHelmHollowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BrokenLimbCampZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BrokenOarGrottoZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BrokenTowerRedoubtZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BronzeWaterCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BroodCavernZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 36,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BrucasLeapRedoubtZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BthalftZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "BthardamzZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ChillwindDepthsZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "CidhnaMineZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ClearpinePondZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ClearspringTarnZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 21,
+      "MaxLevel": 32,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "CliffsideRetreatZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ColdRockPassZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 38,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "CrabbersShantyZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 20,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "CrackedTuskKeepZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 45,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "CradlecrushRockZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "CradleStoneTowerZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 60,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "CragslaneCavernZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "CragwallowSlopeZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 34,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "CronvangrHallZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 38,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "CrystaldriftCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 18,
+      "MaxLevel": 32,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DaintySloadZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DarkBrotherhoodSancZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DarklightTowerZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 38,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DarkshadeCopseZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 20,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DarkwaterCavernZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 52,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DawnstarSanctuaryZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 45,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DeadCroneRockZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DeadMensRespiteZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DeepFolkCrossingZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DeepwoodRedoubtZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1ArkngthamzZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1DarkfallCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1DarkfallPassageZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 52,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1DimhollowCryptZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1FalmerValleyTempleZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 60,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1FalmerValleyZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 65,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1ForebearsHoldoutZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1GlacialCreviceZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 56,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1LDBthalftAetheriumForgeZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 60,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1MolderingRuinsZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1RedwaterDenZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 45,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1RuunvaldZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 46,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1zFalmerValley01Zone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 54,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1zFalmerValley02Zone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 55,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1zFalmerValley03Zone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 56,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1_AncestorsGladeZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 52,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1_SoulCairnZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 55,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC1_VCDungeonZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2AbandonedLodgeZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 54,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2AltarofThrondZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2AshfallowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 54,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2BenkongerikeZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 38,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2BloodskalBarrowBanditZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2Book01DungeonZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 60,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2Book02DungeonZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 60,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2Book03DungeonZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 60,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2Book04DungeonZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 60,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2Book05DungeonZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 60,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2Book06DungeonZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 60,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2Book07DungeonZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 65,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2BristlebackCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2BrodirGroveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2BrokenTuskMineZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 60,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2BujoldsRetreatZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2CastleKarstaagRuinsZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2ColdcinderCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2DamphallMineZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2DremoraShopZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 99,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2FahlbtharzZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 60,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2FortFrostmothZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2FrosselZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2FrostmoonCragZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2GlacialCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2GyldenhulBarrowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 65,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2HaknirsShoalZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2HeadwatersOfHarstradZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2HighpointTowerZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 65,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2HorkerIslandZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 38,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2HrodulfsHouseZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 44,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2HrothmundsBarrowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 45,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2KagrumezZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 55,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2KolbjornBarrowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2MiscBookLevel1Zone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 60,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2MoesringPassZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2NchardakZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 60,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2NorthshoreLandingZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2POI10Zone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 43,
+      "MaxLevel": 60,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2RamshackleTradingPostZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2RavenRockMineZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2RRTempleTombZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2SaeringsWatchZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 55,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2SnowcladRuinsZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2StoneBeastZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2StoneEarthZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2StoneSunZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2StoneWaterZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2StoneWindZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2TelMithrynZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2TempleOfMiraakZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 60,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2ThirskExteriorZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2ThirskInteriorZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 52,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2VahloksTombZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 70,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DLC2WhiteRidgeBarrowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DoomstoneApprenticeZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 21,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DoomstoneAtronachZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 28,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DoomstoneLadyZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 18,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DoomstoneLordZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DoomstoneLoverZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 21,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DoomstoneMageZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 16,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DoomstoneRitualZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 25,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DoomstoneSerpentZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 35,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DoomstoneShadowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DoomstoneSteedZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 21,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DoomstoneThiefZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 18,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DoomstoneTowerZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DoomstoneWarriorZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 16,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DragonBridgeOverlookZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DrelasCottageZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DriftshadeSanctuaryZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 45,
+      "MaxLevel": 60,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DruadachRedoubtZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 52,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DushnikhYalZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 65,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DuskglowCreviceZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "DustmansCairnZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "EastEmpireWarehouseZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "EldergleamSanctuaryZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "EmbershardMineZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 8,
+      "MaxLevel": 20,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "EvergreenGroveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FaldarsToothZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FalkreathWatchtowerZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 28,
+      "MaxLevel": 42,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FallowstoneCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FellglowKeepZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FolgunthurZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ForelhostZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ForsakenCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 72,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FortAmolZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FortDunstadZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FortFellhammerZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FortGreenwallZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FortGreymoorZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FortHraggstadZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 25,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FortKastavZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FortNeugradZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FortSnowhawkZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FortSungardZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FourSkullLookoutZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 34,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FrokisShackZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FrostflowLighthouseZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "FrostmereCryptZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "GallowsRockZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "GeirmundsHallZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "GiantsGroveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "GjukarsMonumentZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "GlenmorilCovenZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "GloomboundMineZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 60,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "GloomreachZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "GoldenglowFarmZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 27,
+      "MaxLevel": 43,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "GoldunRockZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 45,
+      "MaxLevel": 65,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "GraywinterWatchZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 20,
+      "MaxLevel": 32,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "GreenspringHollowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 18,
+      "MaxLevel": 30,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "GreywaterGrottoZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 18,
+      "MaxLevel": 36,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "GuldunRockZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HaemarsShameZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HagRockRedoubtZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HagsEndZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HalldirsCairnZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 46,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HalloftheVigilantZone30"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HaltedStreamCampZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 18,
+      "MaxLevel": 30,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HamvirsRestZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 40,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HarmugstahlZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HelasFollyZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 43,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HelgenZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 10,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HighGateRuinsZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HighHrothgarZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HillgrundsTombZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HobsFallCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HoneystrandCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 12,
+      "MaxLevel": 30,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HonningbrewMeaderyZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "HuntersRestZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 40,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "IcerunnerZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "IlinaltasDeepZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "IrkngthandZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "IronbackHideoutZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 38,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "IronbindBarrowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "JourneymansNookZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 28,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "KagrenzelZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "KarthspireRedoubtZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "KatariahZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 54,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "KilkreathRuinsZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "KjenstagRuinsZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 10,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "KnifepointRidgeZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "KorvanjundZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "LabyrinthianZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 54,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "LargashburZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "LiarsRetreatZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "LostEchoCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "LostKnifeHideoutZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "LostProspectMineZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 40,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "LostValleyRedoubtZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "LundsHutZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 18,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "MarasEyePondZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "MarkarthWizardsQuarters02Zone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "MarkarthWizardsQuartersZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "MeekosShackZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 18,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "MistwatchZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "MorKhazgurZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 50,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "MorvunskarZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "MossMotherCavernZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 40,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "MountAnthorZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 55,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "MovarthsLairZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "MzinchaleftZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "MzulftZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "NarzulburZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 50,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "NchuandZelZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "NightcallerTempleZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "NightingaleHallZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 72,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "NilheimZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 40,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "NorthwatchKeepZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "NorthwindMineZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "OrotheimZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 18,
+      "MaxLevel": 36,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "OrphansTearZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "PeaksShadeTowerZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "PilgrimsTrenchZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "PinefrostTowerZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 40,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "PinemoonCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "PinepeakCavernZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 18,
+      "MaxLevel": 30,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "PinewatchZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "PotemasCatacombsZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "PrideofTelVosZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 60,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "PurewaterRunZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 21,
+      "MaxLevel": 35,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RagnvaldZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RaldbtharZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RannveigsFastZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 54,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RavenscarHollowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 28,
+      "MaxLevel": 54,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ReachcliffCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ReachwaterRockZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ReachwindEyrieZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RebelsCairnZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RedEagleRedoubtZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 38,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RedoransRetreatZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RedRoadPassZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RefugeesRestZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RiftenRatwayZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RiftWatchtowerZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 36,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RimerockBurrowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RiverwatchZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RkundZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 60,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RoadsideRuinsZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 42,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RobbersGorgeZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "RockjointIslandZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SaarthalZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SecundasShelfZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SeptimusSignusOutpostZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SerpentsBluffRedoubtZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 28,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ShadowgreenCavernZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ShimmermistCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 54,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ShorsWatchtowerZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ShriekwindBastionZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ShrineofBoethiahZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ShrineofPeryiteZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 50,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ShroudedGroveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ShroudHearthBarrowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SightlessPitZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SilentMoonsCampZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 36,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SilverdriftLairZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SkuldafnZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 60,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SkybornAltarZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SkyboundWatchZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SkytempleRuinsZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SleepingTreeCampZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 46,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SnaplegCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SnowpointBeaconZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 25,
+      "MaxLevel": 50,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SnowVeilSanctumZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SoljundsSinkholeZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SouthfringeSanctumZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SovngardeZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 75,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SteamcragCampZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SteepfallBurrowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 20,
+      "MaxLevel": 40,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "StendarrsBeaconZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "StillbornCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "StonehillBluffZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "StonyCreekCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 42,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SunderstoneGorgeZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "SwindlersDenZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "TalkingStoneCampZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 46,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ThalmorEmbassyZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 32,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ThroatoftheWorldZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "TolvaldsCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "TowerOfMzarkZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 54,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "TraitorsPostZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 25,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "TrevasWatchZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "TumbleArchPassZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "TwilightSepulcherZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "UstengravZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "UtteringHillsCampZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ValkyggZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ValtheimKeepZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 18,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "ValthumeZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "VolskyggeZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 50,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "VolunruudZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "WarehouseZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 28,
+      "MaxLevel": 48,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "WaywardPassZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "WeynonStonesZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 28,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "WhistlingMineZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 24,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "WhiteRiverWatchZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 18,
+      "MaxLevel": 40,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "WhitewatchTowerZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 18,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "WidowsWatchRuinsZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 36,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "WindwardRuinsZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 15,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "WinterholdCollegeMiddenZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 60,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "WinterWarZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "WitchmistGroveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 28,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "WolfskullCaveZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "YngolBarrowZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 42,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "YngvildZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 40,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "YorgrimOverlookZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 30,
+      "MaxLevel": 0,
+      "Range": 0
+    },
+    {
+      "Keys": [
+        "YsgramorsTombZone"
+      ],
+      "ForbiddenKeys": [],
+      "MinLevel": 48,
+      "MaxLevel": 0,
+      "Range": 0
+    }
+  ]
+}

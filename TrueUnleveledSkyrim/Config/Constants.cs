@@ -26,6 +26,7 @@ namespace TrueUnleveledSkyrim.Config
         public static string ZoneTyesEDIDMLUPath { get; set; } = "zoneTypesByEDIDMLU.json";
         public static string ZoneTyesKeywordPath { get; set; } = "zoneTypesByKeyword.json";
         public static string ZoneTyesKeywordMLUPath { get; set; } = "zoneTypesByKeywordMLU.json";
+        public static string ZoneTyesEDIDMLUPathV2 { get; set; } = "zoneTypesByEDIDMLUv2.json";
 
         public static void GetPaths(IPatcherState<ISkyrimMod, ISkyrimModGetter> state)
         {
