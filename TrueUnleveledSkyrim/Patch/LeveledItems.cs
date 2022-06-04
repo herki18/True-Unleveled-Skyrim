@@ -241,8 +241,11 @@ namespace TrueUnleveledSkyrim.Patch
                             RemoveItemsWithRange(weakCopy, lvlMed + 1, lvlMax);
                             RemoveItemsWithRange(strongCopy, lvlMin, lvlMed - 1);
 
-                            UnlevelList(weakCopy);
-                            UnlevelList(strongCopy);
+                            if(Patcher.ModSettings.Value.Unleveling.UnlevelItems)
+                            {
+                                UnlevelList(weakCopy);
+                                UnlevelList(strongCopy);
+                            }
 
                             if (weakCopy.Entries is not null && weakCopy.Entries.Any())
                                 state.PatchMod.LeveledItems.Set(weakCopy);

@@ -54,6 +54,8 @@ namespace TrueUnleveledSkyrim.Config
         [Tooltip("The level below which items are purged from leveled lists. Setting it to 0 means there is no lower level limit.\nTiers (based on vanilla leveled lists):\n1 - Iron\n2 - Steel\n6 - Orcish\n12 - Dwarven\n19 - Elven\n27 - Glass\n36 - Ebony\n46 - Daedric")]
         public int MinItemLevel { get; set; } = 0;
 
+        [Tooltip("If enabled, item levels will be set to 1 in leveled item list")]
+        public bool UnlevelItems { get; set; } = true;
 
         [Tooltip("If enabled, artifact items will always have the highest level variant in the leveled list.")]
         public bool UnlevelArtifacts { get; set; } = true;
